@@ -1,10 +1,11 @@
-[![MasterHead]("C:\Users\kguru\OneDrive\Pictures\232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif")]
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Kothamasu Venkata Naga Sai Guru Charan</h1>
 <h3 align="center">A passionate AIML Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src=""C:\Users\kguru\OneDrive\Pictures\illustration-web-development-programmer-coding-website_746655-2805.jpg"">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgurucharan2003&label=Profile%20views&color=0e75b6&style=flat" alt="kgurucharan2003" /> </p>
 
+# About Me:
 <p align="left"> <a href="https://twitter.com/kothamasu guru charan" target="blank"><img src="https://img.shields.io/twitter/follow/kothamasu guru charan?logo=twitter&style=for-the-badge" alt="kothamasu guru charan" /></a> </p>
 
 - 🌱 I’m currently learning **AIML**
