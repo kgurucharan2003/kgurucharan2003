@@ -19,12 +19,12 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/kothamasugurucharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kothamasugurucharan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kothamasugurucharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kothamasugurucharan" height="30" width="40" /></a>
-<a href="https://kaggle.com/kothamasugurucharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kothamasugurucharan" height="30" width="40" /></a>
-<a href="https://fb.com/gurucharankothamasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gurucharankothamasu" height="30" width="40" /></a>
+<a href="https://twitter.com/kothamasu guru charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kothamasu guru charan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kothamasu guru charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kothamasu guru charan" height="30" width="40" /></a>
+<a href="https://kaggle.com/kothamasu guru charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kothamasu guru charan" height="30" width="40" /></a>
+<a href="https://fb.com/guru charan kothamasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guru charan kothamasu" height="30" width="40" /></a>
 <a href="https://instagram.com/_mister_guru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mister_guru_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kothamasugurucharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kothamasugurucharan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kothamasu guru charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kothamasu guru charan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills and Tools:</h3>
