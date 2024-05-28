@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **“Did you know you can create a profile README on GitHub? It’s a fun way to showcase your personality and stand out!” 🚀👩‍💻🌟**
 
+- My Motto **💥✨Bê thë Õñè- ñøt thë Bêßt✨💥**
+
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://x.com/GuruKothamasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kothamasu guru charan" height="30" width="40" /></a>
